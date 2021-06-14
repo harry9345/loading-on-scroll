@@ -1,0 +1,11 @@
+.mainDiv {
+  display: flex;
+  flex-direction: column;
+}
+.showComment {
+  overflow: auto;
+}
+
+#spinnerHolder {
+  order: revert;
+}
